@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/newsletter-signup-page](https://www.frontendmentor.io/solutions/newsletter-signup-page)
-- Live Site URL: [abulhashim.github.io/Newsletter-Signup-Page](https://abulhashim.github.io/Newsletter-Signup-Page/)
+- Solution URL: [frontendmentor.io/solutions/newsletter-signup-page](https://www.frontendmentor.io/solutions/newsletter-signup-page-using-reactjs-and-tailwind-css-EiEa9f9b7u)
+- Live Site URL: [abulhashim.github.io/Newsletter-Signup-Page](https://abulhashim.github.io/Newsletter-SignUp-Page/)
 
 ## My process
 
