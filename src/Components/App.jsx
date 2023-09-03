@@ -16,7 +16,11 @@ function App() {
     <Context.Provider
       value={{ isValidEmailProvided, updateIsValidEmailProvided }}
     >
-      {!isValidEmailProvided ? <Signup /> : <Confirmation />}
+      <main>
+        <article>
+          {!isValidEmailProvided ? <Signup /> : <Confirmation />}
+        </article>
+      </main>
     </Context.Provider>
   );
 }

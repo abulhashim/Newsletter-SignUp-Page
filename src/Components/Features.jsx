@@ -4,7 +4,7 @@ const Features = () => {
   return (
     <div>
       <h1 className="text-4xl font-bold md:text-[3.5rem] md:leading-normal ">
-        Stay Updated!
+        Stay updated!
       </h1>
       <p className="my-2">
         Join 60,000+ product managers receiving monthly updates on:
