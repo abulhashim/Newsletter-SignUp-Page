@@ -6,7 +6,7 @@ const Image = () => {
     <picture>
       <source media="(min-width: 768px)" srcSet={desktopIllustration} />
       <img
-        className="w-auto md:ml-auto"
+        className="w-full md:ml-auto md:w-auto"
         src={mobileIllustration}
         alt="illustration"
       />
